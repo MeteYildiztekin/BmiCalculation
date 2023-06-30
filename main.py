@@ -3,7 +3,6 @@ import webbrowser
 from tkinter import *
 
 window = tkinter.Tk()
-window.title("tıkla")
 window.title("BMI Calculator")
 window.config(padx=30, pady=30)
 
