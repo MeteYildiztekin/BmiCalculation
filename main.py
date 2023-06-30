@@ -26,9 +26,6 @@ def openlink():
 linkbutton = Button(window, text="OBEZİTE HAKKINDA BİLGİ İÇİN TIKLAYIN", command=openlink)
 
 
-
-
-# ui
 weight_input_label = tkinter.Label(text="KG")
 weight_input_label.pack()
 weight_input = tkinter.Entry(width=10)
